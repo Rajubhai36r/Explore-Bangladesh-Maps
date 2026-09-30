@@ -660,7 +660,7 @@
     "তেঁতুলিয়া"
    ],
    "pr": [
-    "চা ☕"
+    "চা ☕ Tea"
    ],
    "pe": [],
    "h": "",
@@ -1048,5 +1048,7 @@
    "pr": [],
    "pe": []
   }
- }
+ },
+ "about": "",
+ "qaUrl": "https://bd-explorer-default-rtdb.firebaseio.com"
 }
